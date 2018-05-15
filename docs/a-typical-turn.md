@@ -1,0 +1,13 @@
+Hypothetical walkthrough of what a typical turn is like:
+
+1. schedule a time to be the primary player
+2. download the latest savefile
+3. "check in" once you're in-game to ensure backup players don't get your points
+    * within 24hrs of your scheduled time
+3. dwarf around, make notes, take screenshots, and/or record video
+4. upload save file to ...
+5. upload historical documents to:
+    1. text only: ...
+    2. screenshots (+text): ...
+    3. videos : ...
+6. post to /r/dfoneworld 
